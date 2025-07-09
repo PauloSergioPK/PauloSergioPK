@@ -4,32 +4,32 @@
 - 🏡 Living in Brazil
 - 🏍️ Love motorcycles and attended to a few competitions
 
-## 🧑‍💻 &nbsp;Personal Projects
+## 🧑‍💻 &nbsp;Personal projects
 
-#### ShapeHub  
-I built this gym app using KMP and CMP.
-<br>
-<img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQHlWl3I41cJ_Q/feedshare-shrink_800/feedshare-shrink_800/0/1720626883313?e=1755129600&v=beta&t=0bq772rBa6QYLFqD4ulBQ_2lH4WOny2okBagdU9CCik"> <img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQGZrfv3VIyM-g/feedshare-shrink_1280/feedshare-shrink_1280/0/1720626884998?e=1755129600&v=beta&t=bJreaX2RUzkw7DqVF92BhMR8-0l0YBSAnj-SnUFTYYY"> 
-<br>
-Check out the [Android](https://play.google.com/store/apps/details?id=com.psc.shapehub) and [iOS](https://apps.apple.com/br/app/shapehub/id6504586316) versions :)
+- #### ShapeHub  
+   I built this gym app using KMP and CMP.
+   <br>
+   <img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQHlWl3I41cJ_Q/feedshare-shrink_800/feedshare-shrink_800/0/1720626883313?e=1755129600&v=beta&t=0bq772rBa6QYLFqD4ulBQ_2lH4WOny2okBagdU9CCik"> <img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQGZrfv3VIyM-g/feedshare-shrink_1280/feedshare-shrink_1280/0/1720626884998?e=1755129600&v=beta&t=bJreaX2RUzkw7DqVF92BhMR8-0l0YBSAnj-SnUFTYYY"> 
+   <br>
+   Check out the [Android](https://play.google.com/store/apps/details?id=com.psc.shapehub) and [iOS](https://apps.apple.com/br/app/shapehub/id6504586316) versions :)
 
-#### JesusToday  
-I refactored this christian app to adopt KMP and CMP, but the original code was entirely created by my friend [Douglas Amaro](https://github.com/douglasamaro).
-<br>
-<img height="400" width="400" src="https://media.licdn.com/dms/image/v2/D4D22AQHxSKZsIwRM1g/feedshare-shrink_1280/B4DZTyXFxIHkAo-/0/1739232927901?e=1755129600&v=beta&t=qBYUI-T9MGXWTbiMkzQlzUB3Vqm7TXHKlhQ6SgjVltM"> 
-<br>
-Check out the [Android](https://play.google.com/store/apps/details?id=com.amaro.jesustoday) and [iOS](https://apps.apple.com/app/id6739759027) versions :)
+- #### JesusToday  
+   I refactored this christian app to adopt KMP and CMP, but the original code was entirely created by my friend [Douglas Amaro](https://github.com/douglasamaro).
+   <br>
+   <img height="400" width="400" src="https://media.licdn.com/dms/image/v2/D4D22AQHxSKZsIwRM1g/feedshare-shrink_1280/B4DZTyXFxIHkAo-/0/1739232927901?e=1755129600&v=beta&t=qBYUI-T9MGXWTbiMkzQlzUB3Vqm7TXHKlhQ6SgjVltM"> 
+   <br>
+   Check out the [Android](https://play.google.com/store/apps/details?id=com.amaro.jesustoday) and [iOS](https://apps.apple.com/app/id6739759027) versions :)
 
-## 💼 &nbsp;My Experience So Far
+## 💼 &nbsp;My experience so far
 
-#### Stone  
-Currently working as a Mobile Developer, writing code for Android and iOS using KMP and CMP.
+- #### Stone  
+   Currently working as a Mobile Developer, writing code for Android and iOS using KMP and CMP.
 
-#### Toro  
-Worked on an investment app as a Mobile Developer using Flutter to build for both Android and iOS.
+- #### Toro  
+   Worked on an investment app as a Mobile Developer using Flutter to build for both Android and iOS.
 
-#### Mobills  
-Worked on more than 20 financial and utility apps as an Android Developer.
+- #### Mobills  
+   Worked on more than 20 financial and utility apps as an Android Developer.
 
 ## &nbsp;Feel free to contact me
 
