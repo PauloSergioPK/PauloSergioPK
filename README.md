@@ -1,6 +1,6 @@
 <p><img src="https://media.licdn.com/dms/image/v2/D4D16AQEm_jRcHqg08Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353985914?e=1757548800&v=beta&t=-kRCcIDCWS7mJ-LEMdzFVacciJiifMWi35n4lt-7SQA"></p>
 
-## Hey there, &nbsp;I'm Paulo Sérgio Rabelo Costa
+## Hey there, &nbsp;I'm Paulo Sérgio Rabelo Costa &nbsp;🤙
 - 👨‍💻 Mobile developer with 5 years of professional experience. I've been developing Android apps for 5 years and iOS apps for almost 1 year using Kotlin Multiplatform and Compose Multiplatform.
 - 👨‍🎓 Studying Computer Science at [UFC](https://www.ufc.br/)
 - 📚 Advanced English and fluent Portuguese
