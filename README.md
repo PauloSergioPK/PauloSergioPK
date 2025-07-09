@@ -12,7 +12,7 @@
 - #### ShapeHub  
    I built this gym app using KMP and CMP.
    <br>
-   <img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQHlWl3I41cJ_Q/feedshare-shrink_800/feedshare-shrink_800/0/1720626883313?e=1755129600&v=beta&t=0bq772rBa6QYLFqD4ulBQ_2lH4WOny2okBagdU9CCik"> <img height="500" width="150" src="https://media.licdn.com/dms/image/v2/D4D22AQGZrfv3VIyM-g/feedshare-shrink_1280/feedshare-shrink_1280/0/1720626884998?e=1755129600&v=beta&t=bJreaX2RUzkw7DqVF92BhMR8-0l0YBSAnj-SnUFTYYY"> 
+   <img height="500" width="500" src="https://github.com/user-attachments/assets/769923c0-4e99-45db-9b54-784d21e947e4">
    <br>
    Check out the [Android](https://play.google.com/store/apps/details?id=com.psc.shapehub) and [iOS](https://apps.apple.com/br/app/shapehub/id6504586316) versions :)
 
