@@ -10,7 +10,7 @@
 I built this gym app using KMP and CMP. Check out the [Android](https://play.google.com/store/apps/details?id=com.psc.shapehub) and [iOS](https://apps.apple.com/br/app/shapehub/id6504586316) versions :)
 
 #### JesusToday  
-I refactored this app to adopt KMP and CMP, but the original code was entirely created by my friend Douglas Amaro. Check out his [profile](https://github.com/douglasamaro), as well as the [Android](https://play.google.com/store/apps/details?id=com.psc.shapehub) and [iOS](https://apps.apple.com/br/app/shapehub/id6504586316) versions :)
+I refactored this app to adopt KMP and CMP, but the original code was entirely created by my friend Douglas Amaro. Check out his [profile](https://github.com/douglasamaro), as well as the [Android](https://play.google.com/store/apps/details?id=com.amaro.jesustoday) and [iOS](https://apps.apple.com/app/id6739759027) versions :)
 
 ## 💼 &nbsp;My Experience So Far
 
