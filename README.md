@@ -1,5 +1,6 @@
 ## Hey there, &nbsp;I'm Paulo Sérgio Rabelo Costa 
 - 👨‍💻 Mobile developer with 5 years of professional experience. I've been developing Android apps for 5 years and iOS apps for almost 1 year using Kotlin Multiplatform and Compose Multiplatform.
+- 👨‍🎓 Studying Computer Science at [UFC](https://www.ufc.br/)
 - 📚 Advanced English and fluent Portuguese
 - 🏡 Living in Brazil
 - 🏍️ Love motorcycles and attended to a few competitions
