@@ -1,4 +1,4 @@
-## Hey there, &nbsp;I'm Paulo Sérgio Rabelo Costa
+## Hey there, &nbsp;I'm Paulo Sérgio Rabelo Costa 
 - 👨‍💻 Mobile developer with 5 years of professional experience. I've been developing Android apps for 5 years and iOS apps for almost 1 year using Kotlin Multiplatform and Compose Multiplatform.
 - 📚 Advanced English and fluent Portuguese
 - 🏡 Living in Brazil
@@ -22,16 +22,16 @@
 
 ## 💼 &nbsp;My experience so far
 
-- #### Stone  
+- #### Stone &nbsp;<img height="15" width="15" src="https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQfOHSuO4XvDwTKAr1P-fRIqIc3XszNKVb1RPOfQIOAx5DgaE0N_70JiVp0eVvJBlBwW_UdjwByeXb0wZ3JFPigSW6JSY5b3bSJYmv5p8r4rDy61QFAACm6HQ"> 
    Currently working as a Mobile Developer, writing code for Android and iOS using KMP and CMP.
 
-- #### Toro  
+- #### Toro &nbsp;<img height="15" width="15" src="https://media.licdn.com/dms/image/v2/D4D0BAQHR8TsNdJXiFQ/company-logo_200_200/company-logo_200_200/0/1726740937248/toroinvestimentos_logo?e=1757548800&v=beta&t=qE99cQECETzGGVB4uJAjSSfa9_VJ5veG5J2HJI7ZwDk"> 
    Worked on an investment app as a Mobile Developer using Flutter to build for both Android and iOS.
 
-- #### Mobills  
+- #### Mobills &nbsp;<img height="15" width="15" src="https://media.licdn.com/dms/image/v2/D4D0BAQGkP0R4XpIHDQ/company-logo_100_100/company-logo_100_100/0/1688069558636/mobills_labs_logo?e=1757548800&v=beta&t=ybRk6hXg5aOI7gj9TfZz_Tz0Q9nLrSAotlSYxZfOFi0"> 
    Worked on more than 20 financial and utility apps as an Android Developer.
 
-## &nbsp;Feel free to contact me
+## 📫 &nbsp;Feel free to contact me
 
 <p align="start">
 <a href="https://www.linkedin.com/in/paulo-sergio-rabelo-costa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
